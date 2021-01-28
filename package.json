@@ -1,0 +1,16 @@
+{
+  "name": "zoomclone.com",
+  "version": "1.0.0",
+  "description": "Zoom clone usign WebRTC, NodeJS with ExpressJS and ReactJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
