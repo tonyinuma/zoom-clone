@@ -1,0 +1,11 @@
+video {
+    height: 300px;
+    width: 400px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+#video-grid {
+    display: flex;
+    justify-content: center;
+}
